@@ -1,11 +1,9 @@
-const gql = require("graphql-tag");
+const { gql } = require("graphql-tag");
 
-const typeDefs = gql`
-  "Query to get an array of tracks for the homepage grid"
+export const typeDefs = gql`
   type Query {
     tracksForHome: [Track!]!
   }
-
   "A track is a group of modules that teaches a specific topic"
   type Track {
     id: ID!
