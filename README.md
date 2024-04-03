@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Odyssey Lift-off II: Resolvers
 
 Welcome to the companion app of Odyssey Lift-off II! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part2), Apollo's learning platform.
@@ -33,3 +34,6 @@ This will open up `localhost:3000` in your web browser.
 ## Getting Help
 
 For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
+=======
+# learning-graphQL
+>>>>>>> 8c6040cbd1b0a81a793e05e2d864cab38973e081
